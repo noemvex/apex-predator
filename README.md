@@ -19,7 +19,7 @@
 ## Usage
 
 ### 1. Requirements
-Ensure you have Python 3.9+ installed and root privileges. Install the core dependencies:
+Ensure you have Python 3.x installed and root privileges. Install the core dependencies:
 pip3 install -r requirements.txt
 
 *Core dependencies include `impacket` for SMB/RPC interactions and `ldap3` for directory querying.*
