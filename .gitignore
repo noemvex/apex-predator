@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+apex_loot_*/
+*.pcap
+._*
+.DS_Store
